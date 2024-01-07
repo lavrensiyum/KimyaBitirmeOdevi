@@ -1,0 +1,18 @@
+Filename = D:/backups/Depo1/ChemChem/3/MAC_sunum/MAC1/MAC1.chk
+
+Overview Tab Data Section:
+MAC_GO
+D:/backups/Depo1/ChemChem/3/MAC_sunum/MAC1/MAC1.chk
+File Type = .chk
+Calculation Type = FREQ
+Calculation Method = RB3LYP
+Basis Set = 6-31G(D,P)
+Charge = 0
+Spin = Singlet
+Solvation = scrf=check
+Electronic Energy = -912.6865 Hartree
+RMS Gradient Norm = 7.032682e-06 Hartree/Bohr
+Imaginary Freq = 
+Dipole Moment = 2.379044 Debye
+Polarizability (?) = 91.867235 a.u.
+Point Group = 
